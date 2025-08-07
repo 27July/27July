@@ -6,7 +6,7 @@ I'm a Penultimate Computer Engineering student at Nanyang Technological Universi
 
 ## Projects:
 - [Budget-Buddy](https://github.com/27July/budget-buddy): A desktop application for local expense tracking featuring interactive charts and visualisations to help users better understand and manage their finances
-- [ChildConnect](https://github.com/27July/ChildConnect): A cross-platform mobile application for educators designed to streamline communication between educators and parents, featuring child tracking, real-time messaging with translation and speech integration, homework/document sharing and attendance management 
+- [ChildConnect](https://github.com/27July/ChildConnect): A cross-platform mobile application for educators designed to streamline communication between educators and parents, featuring child tracking, real-time messaging with translation and speech integration, homework or document sharing and attendance management 
 - [Verify-AI-Chrome-Extension](https://github.com/27July/Verify-AI-Chrome-Extension): A chrome extension that empowers users to verify textual misinformation and deepfake images using machine learning modals directly within their browser. Submitted as part of my hackathon entry for NTU Techfest 2025
 - [Hospital-Management-System](https://github.com/27July/SC2002-Hospital-Management-System): A command-line hospital management system built upon core Object-Oriented Programming principles
 - [Heart-Disease-Predictor](https://github.com/27July/SC1015-Heart-Disease-Predictor): A machine learning project utilising decision trees, random forest and logistical regression to predict whether a patient has heart disease
