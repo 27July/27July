@@ -12,7 +12,7 @@ I'm a Penultimate Computer Engineering student at Nanyang Technological Universi
 - [Heart-Disease-Predictor](https://github.com/27July/SC1015-Heart-Disease-Predictor): A machine learning project utilising decision trees, random forest and logistical regression to predict whether a patient has heart disease
 
 ## Contact Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/wee-zi-hao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:weezihao@gmail.com) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/wee-zi-hao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:weezihao@gmail.com) 
 
 ## Favourite Technologies and Tools:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
