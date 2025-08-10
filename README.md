@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zi Hao👋</h1>
 
 ## About Me:
-I'm a Penultimate Computer Engineering student at Nanyang Technological University (NTU), Singapore, with a strong passion for Software Engineering, Data Science, and Artificial Intelligence. I'm currently working on expanding my skills through personal projects, coursework, and internships. Beyond academics, I enjoy reading, writing poetry, and playing basketball. I'm always keen to connect and collaborate, so feel free to check out my repositories or reach out !
+I'm a Penultimate Computer Engineering student at Nanyang Technological University (NTU), Singapore, with a strong passion for Software Engineering, Data Science, and Artificial Intelligence. I'm currently working on expanding my skills through personal projects, coursework, and internships. Beyond academics, I enjoy reading, writing poetry, and playing basketball. I'm always keen to connect and collaborate, so feel free to check out my repositories or reach out!
 
 
 ## Projects:
@@ -9,7 +9,7 @@ I'm a Penultimate Computer Engineering student at Nanyang Technological Universi
 - [ChildConnect](https://github.com/27July/ChildConnect): A cross-platform mobile application for educators designed to streamline communication between educators and parents, featuring child tracking, real-time messaging with translation and speech integration, homework or document sharing and attendance management 
 - [Verify-AI-Chrome-Extension](https://github.com/27July/Verify-AI-Chrome-Extension): A chrome extension that empowers users to verify textual misinformation and deepfake images using machine learning modals directly within their browser. Submitted as part of my hackathon entry for NTU Techfest 2025
 - [Hospital-Management-System](https://github.com/27July/SC2002-Hospital-Management-System): A command-line hospital management system built upon core Object-Oriented Programming principles
-- [Heart-Disease-Predictor](https://github.com/27July/SC1015-Heart-Disease-Predictor): A machine learning project utilising decision trees, random forest and logistical regression to predict whether a patient has heart disease
+- [Heart-Disease-Prediction](https://github.com/27July/SC1015-Heart-Disease-Prediction): A machine learning project utilising decision trees, random forest and logistical regression to predict whether a patient has heart disease
 
 ## Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wee-zi-hao) 
