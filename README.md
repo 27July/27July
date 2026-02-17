@@ -6,6 +6,7 @@ I'm a Penultimate Computer Engineering student at Nanyang Technological Universi
 
 ## Projects:
 - [Budget-Buddy](https://github.com/27July/budget-buddy): A desktop application for local expense tracking featuring interactive charts and visualisations to help users better understand and manage their finances
+- [Personal-Blogging-API](https://github.com/27July/personal-blogging-api): A dockerised REST API for a simple personal blog with basic auth and article CRUD with ownership enforcement
 - [Personal Website](https://github.com/27July/27july.github.io): A simple personal website, deployed on GitHub Pages, to showcase my projects
 - [ChildConnect](https://github.com/27July/ChildConnect): A cross-platform mobile application for educators designed to streamline communication between educators and parents, featuring child tracking, real-time messaging with translation and speech integration, homework or document sharing and attendance management
 - [Navigoat](https://github.com/27July/navigoat): Built a Chrome extension that uses LLM-powered page parsing to declutter websites, relabel ambiguous UI elements, and present links/actions in an accessible layout with Dyslexia/ADHD modes. Submited as part of my hackathon entry for iNTUition V12.0
