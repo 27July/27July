@@ -16,6 +16,7 @@ I'm a Penultimate Computer Engineering student at Nanyang Technological Universi
 - [Heart-Disease-Prediction](https://github.com/27July/SC1015-Heart-Disease-Prediction): A machine learning project utilising decision trees, random forest and logistical regression to predict whether a patient has heart disease
 
 ## Contact Me:
+[![GitHub](https://img.shields.io/badge/GitHub-27July-181717?logo=github&logoColor=white)](https://github.com/27July)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wee%20Zi%20Hao-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wee-zi-hao)
 [![Email](https://img.shields.io/badge/Email-weezihao@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:weezihao@gmail.com)
 [![Personal Site](https://img.shields.io/badge/Website-Wee%20Zi%20Hao-1E40AF?logo=aboutdotme&logoColor=white)](https://27july.github.io/)
@@ -24,7 +25,7 @@ I'm a Penultimate Computer Engineering student at Nanyang Technological Universi
 
 ## Preferred Technologies and Tools:
 
-- [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?c&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![SQL](https://img.shields.io/badge/SQL-%230074A2.svg?logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+- [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?c&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) [![SQL](https://img.shields.io/badge/SQL-%230074A2.svg?logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
 - [![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)](https://fastapi.tiangolo.com/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![React](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
